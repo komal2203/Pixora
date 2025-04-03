@@ -8,6 +8,7 @@ import useStyles from "./styles";
 import Posts from "./components/Posts/Posts";
 import Form from "./components/Form/Form";
 import pixora from "./images/Pixora.png";
+import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
@@ -28,27 +29,7 @@ const App = () => {
 
   return (
     <Container maxWidth="lg">
-      <AppBar className={classes.appBar} position="static" color="inherit">
-        <Typography
-          className={classes.heading}
-          variant="h2"
-          align="center"
-          sx={{
-            color: "rgb(0, 123, 255)",
-            fontStyle: "italic",
-            fontFamily: "cursive",
-          }}
-        >
-          Pixora
-          <img
-            className={classes.image}
-            src={pixora}
-            alt="pixora"
-            height="60"
-            style={{ marginLeft: "0.5rem" }}
-          />
-        </Typography>
-      </AppBar>
+   <Navbar/>
       <Grow in>
         <Container>
           {/* <Grid
