@@ -21,9 +21,8 @@ _A Full-Stack Photo Sharing App with MERN Stack_
 🔹 **Authentication (Optional):** JWT (Planned for future)
 
 ## 📸 **Screenshots**  
-_Add relevant screenshots here_  
-Home Page Screenshot(![Screenshot 2025-04-11 125250](https://github.com/user-attachments/assets/4cd31197-f98d-4c64-a1fa-4d9f2a99b54c)
-)
+Home Page ![Screenshot 2025-04-11 125250](https://github.com/user-attachments/assets/4cd31197-f98d-4c64-a1fa-4d9f2a99b54c)
+
 
 
 ## 🚀 **Getting Started**  
