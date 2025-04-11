@@ -22,8 +22,9 @@ _A Full-Stack Photo Sharing App with MERN Stack_
 
 ## 📸 **Screenshots**  
 _Add relevant screenshots here_  
-![Screenshot 1](![image](https://github.com/user-attachments/assets/dc9ee6c7-d4a0-4325-8926-1a0eda09faf8)
-)  
+![Home Page Screenshot](![Screenshot 2025-04-11 125250](https://github.com/user-attachments/assets/4cd31197-f98d-4c64-a1fa-4d9f2a99b54c)
+)
+
 
 ## 🚀 **Getting Started**  
 
